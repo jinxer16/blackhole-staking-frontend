@@ -1,0 +1,96 @@
+.blackhole-main-wrapper {
+    max-width: 1400px;
+    width: 100%;
+    padding: 20px;
+}
+
+.apys-select-combo {
+    color: white;
+    margin-top: 20px;
+}
+
+.apys-select-combo svg {
+    color: white;
+}
+
+.apys-select-combo .MuiInputBase-root {
+    border-radius: 32px;
+}
+
+.apys-select-combo .MuiFormLabel-root {
+    color: grey;
+}
+
+.apys-select-combo .MuiFormControl-root button {
+    margin: 0px;
+    padding: 0px;
+    background-color: transparent;
+}
+
+.apys-select-combo fieldset {
+    border: 2px solid white;
+}
+
+.apys-select-combo fieldset:hover {
+    border: 2px solid white;
+}
+
+.apys-select-combo input {
+    color: white;
+}
+
+.artist-value-slider .MuiSlider-root {
+    color: #673ab7;
+}
+
+.artist-value-slider .MuiSlider-valueLabel {
+    background-color: #673ab780;
+}
+
+.burn-value-slider .MuiSlider-root {
+    color: #4caf50;
+}
+
+.burn-value-slider .MuiSlider-valueLabel {
+    background-color: #4caf5080;
+}
+
+.charity-value-slider .MuiSlider-root {
+    color: #ff9800;
+}
+
+.charity-value-slider .MuiSlider-valueLabel {
+    background-color: #ff980080;
+}
+
+.my-value-slider .MuiSlider-root {
+    color: #009688;
+}
+
+.my-value-slider .MuiSlider-valueLabel {
+    background-color: #00968880;
+}
+
+.value-slider p {
+    color: grey;
+    font-weight: 700;
+}
+
+.staking-panel svg {
+    color: black;
+}
+
+.staking-panel p {
+    color: black;
+}
+
+.amount-max-button {
+    position: absolute;
+    top: 80px;
+    right: 10px;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    color: white !important;
+}
